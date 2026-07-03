@@ -7,12 +7,12 @@ Welcome to my portfolio of React challenges. This repository documents my progre
 ### 1. Simple Omelette Recipe
 A responsive recipe page showcasing component structure and data rendering.
 
-![Recipe Preview](img/01-recipe-page-react.jpg) 
+<img src="img/01-recipe-page-react.jpg" width="400" alt="Recipe Preview">
 
 ### 2. Blog Preview Card
 A card component focused on layout, hover states, and semantic HTML structure.
 
-![Blog Card Preview](img/02-blog-preview-card-react.jpg)
+<img src="img/02-blog-preview-card-react.jpg" width="400" alt="Recipe Preview">
 
 ---
 
