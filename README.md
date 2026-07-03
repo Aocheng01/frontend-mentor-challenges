@@ -7,14 +7,12 @@ Welcome to my portfolio of React challenges. This repository documents my progre
 ### 1. Simple Omelette Recipe
 A responsive recipe page showcasing component structure and data rendering.
 
-![Recipe Preview](img/01-recipe-page-react.png) 
-*(Make sure you have the `receta.png` file inside an `assets` folder)*
+![Recipe Preview](img/01-recipe-page-react.jpg) 
 
 ### 2. Blog Preview Card
 A card component focused on layout, hover states, and semantic HTML structure.
 
-![Blog Card Preview](img/02-blog-preview-card-react.png)
-*(Make sure you have the `tarjeta_blog.png` file inside an `assets` folder)*
+![Blog Card Preview](img/02-blog-preview-card-react.jpg)
 
 ---
 
@@ -28,4 +26,4 @@ A card component focused on layout, hover states, and semantic HTML structure.
 These challenges helped me solidify my understanding of the React ecosystem, specifically focusing on building clean, reusable components and translating visual designs into functional code.
 
 ---
-*Created by [Your Name]*
+*Created by Aocheng Ye*
